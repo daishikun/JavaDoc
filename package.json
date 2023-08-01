@@ -1,0 +1,15 @@
+{
+  "name": "javadoc",
+  "version": "1.0.0",
+  "description": "javadoc",
+  "main": "index.js",
+  "author": "daishikun <2467755289@qq.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.66"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
