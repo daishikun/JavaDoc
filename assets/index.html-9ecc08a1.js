@@ -1,0 +1,1 @@
+import{_ as t,o as a,c,a as e,b as n}from"./app-bba9a206.js";const o={},r=e("h1",{id:"这是数据库的地方",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#这是数据库的地方","aria-hidden":"true"},"#"),n(" 这是数据库的地方")],-1),s=[r];function _(d,i){return a(),c("div",null,s)}const l=t(o,[["render",_],["__file","index.html.vue"]]);export{l as default};

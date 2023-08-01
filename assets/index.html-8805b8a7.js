@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-2e25198a","path":"/database/","title":"这是数据库的地方","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1690905974000,"contributors":[{"name":"daishikun","email":"2467755289@qq.com","commits":1}]},"filePathRelative":"database/README.md"}');export{a as data};
